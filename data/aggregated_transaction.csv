@@ -1,0 +1,9 @@
+State,Year,Quarter,Transaction_Type,Total_Transaction_Value
+Maharashtra,2023,1,Recharge,12000000
+Karnataka,2023,1,Recharge,9500000
+Delhi,2023,1,Recharge,8800000
+Gujarat,2023,1,Recharge,7900000
+Maharashtra,2023,2,Bill Payments,15000000
+Karnataka,2023,2,Bill Payments,11000000
+Delhi,2023,2,Bill Payments,9000000
+Gujarat,2023,2,Bill Payments,8500000
